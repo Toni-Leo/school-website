@@ -1,0 +1,36 @@
+.contact-page{
+    
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #1a1a1a;
+    background-color: antiquewhite;
+    width: 100%;
+    
+}
+.contact-title{
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #4a1258;
+    text-decoration: none;
+    text-underline-offset: 8px;
+    margin: 0 0 32px;
+    text-align: center;
+    transition: 2s;
+}
+
+.contact-title:hover{
+    text-decoration: underline;
+    color: gold;
+ 
+}
+.contact-one{
+    text-align: center;
+    font-size: 2.1rem;
+
+}
+.contact-line{
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
